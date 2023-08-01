@@ -21,7 +21,7 @@ const LandingHero = () => {
           </span>
           {/* <div className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600"> */}
           {/* </div> */}
-          <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl ">
+          <p className="max-w-2xl mt-6 mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl ">
             Keka is your people enabler. From automation of people processes to
             creating an engaged and driven culture, Keka is all you need to
             build a good to great company.
